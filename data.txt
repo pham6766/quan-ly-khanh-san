@@ -1,0 +1,89 @@
+{
+    "danh_sach_phong": [
+        {
+            "ma_phong": "P07",
+            "so_phong": "305",
+            "loai_phong": "Đơn",
+            "gia_phong": 70000.0,
+            "suc_chua": 3,
+            "trang_thai": "Trống",
+            "khach_hang": {}
+        },
+        {
+            "ma_phong": "P08",
+            "so_phong": "304",
+            "loai_phong": "vip",
+            "gia_phong": 70000.0,
+            "suc_chua": 4,
+            "trang_thai": "Trống",
+            "khach_hang": {}
+        },
+        {
+            "ma_phong": "P01",
+            "so_phong": "101",
+            "loai_phong": "Đơn",
+            "gia_phong": 400000.0,
+            "suc_chua": 1,
+            "trang_thai": "Trống",
+            "khach_hang": {}
+        },
+        {
+            "ma_phong": "P04",
+            "so_phong": "202",
+            "loai_phong": "Đơn",
+            "gia_phong": 450000.0,
+            "suc_chua": 1,
+            "trang_thai": "Trống",
+            "khach_hang": {}
+        },
+        {
+            "ma_phong": "P02",
+            "so_phong": "102",
+            "loai_phong": "Đôi",
+            "gia_phong": 700000.0,
+            "suc_chua": 2,
+            "trang_thai": "Trống",
+            "khach_hang": {}
+        },
+        {
+            "ma_phong": "P06",
+            "so_phong": "302",
+            "loai_phong": "Gia đình",
+            "gia_phong": 1000000.0,
+            "suc_chua": 4,
+            "trang_thai": "Trống",
+            "khach_hang": {}
+        },
+        {
+            "ma_phong": "P03",
+            "so_phong": "201",
+            "loai_phong": "VIP",
+            "gia_phong": 1200000.0,
+            "suc_chua": 2,
+            "trang_thai": "Đang sử dụng",
+            "khach_hang": {
+                "ma_kh": "KH02",
+                "ho_ten": "Trần Thị Bình",
+                "sdt": "0912345678",
+                "cccd": "001198654321",
+                "so_ngay": 2
+            }
+        },
+        {
+            "ma_phong": "P05",
+            "so_phong": "301",
+            "loai_phong": "VIP",
+            "gia_phong": 1500000.0,
+            "suc_chua": 4,
+            "trang_thai": "Đang sử dụng",
+            "khach_hang": {
+                "ma_kh": "KH03",
+                "ho_ten": "Lê Hoàng Cường",
+                "sdt": "0987654321",
+                "cccd": "038095112233",
+                "so_ngay": 5
+            }
+        }
+    ],
+    "doanh_thu_tong": 6600000.0
+}
